@@ -5,6 +5,5 @@
 // 4) Dopo che sono stati inseriti i 5 numeri, il software dice quanti
 //    e quali dei numeri da indovinare sono stati individuati.
 
-"use strict";
 
-console.log("start");
+"use strict";
