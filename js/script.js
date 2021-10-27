@@ -54,7 +54,7 @@ setTimeout(() => {
     console.log(`L'utente ha ricordato ${arrayCorretto.length} numeri -> ${arrayCorretto}`);
 
 // timer millisecondi
-}, 3000);
+}, 30000);
 
 
 
